@@ -1,6 +1,6 @@
-# Full Stack Developer - Nnanna Atu
+# Backend Developer - Nnanna Atu
 
-Welcome to my GitHub profile! I'm a seasoned Full Stack developer with extensive experience in building web solutions from start to finish. Whether you need a dynamic web app, an e-commerce site, or a robust and scalable back-end system, I have the expertise to deliver.
+Welcome to my GitHub profile! I'm a seasoned backend developer with extensive experience in building web solutions from start to finish. Whether you need a dynamic web app, an e-commerce site, or a robust and scalable back-end system, I have the expertise to deliver.
 
 ## Technologies & Expertise
 
